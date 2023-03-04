@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Diameter_of_a_tree",
+            "request": "launch",
+            "mainClass": "Diameter_of_a_tree",
+            "projectName": "Day 24 - Binary Trees (Part 2)_b40f150b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Optimized_Diameter_of_a_tree",
+            "request": "launch",
+            "mainClass": "Optimized_Diameter_of_a_tree",
+            "projectName": "Day 24 - Binary Trees (Part 2)_b40f150b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subtree_of_another_Tree",
+            "request": "launch",
+            "mainClass": "Subtree_of_another_Tree",
+            "projectName": "Day 24 - Binary Trees (Part 2)_b40f150b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Top_View_of_a_Tree",
+            "request": "launch",
+            "mainClass": "Top_View_of_a_Tree",
+            "projectName": "Day 24 - Binary Trees (Part 2)_b40f150b"
+        },
+        {
+            "type": "java",
+            "name": "Launch a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "Day 24 - Binary Trees (Part 2)_b40f150b"
+        }
+    ]
+}
